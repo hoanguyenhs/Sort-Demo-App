@@ -1,0 +1,5 @@
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\Debug\ResolveAssemblyReference.cache
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\Debug\sort_algorithm.mainform.resources
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\Debug\sort_algorithm.Properties.Resources.resources
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\Debug\GenerateResource.read.1.tlog
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\Debug\GenerateResource.write.1.tlog

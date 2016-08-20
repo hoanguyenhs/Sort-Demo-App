@@ -1,0 +1,72 @@
+D:\VS 2K10\sort_algorithm\sort_algorithm\bin\Debug\sort_algorithm.exe
+D:\VS 2K10\sort_algorithm\sort_algorithm\bin\Debug\sort_algorithm.pdb
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.Properties.Resources.resources
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.exe
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.pdb
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.sortform.resources
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.thongtin.resources
+F:\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.exe
+F:\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.pdb
+F:\sort_algorithm\sort_algorithm\bin\Debug\sort_algorithm.exe
+F:\sort_algorithm\sort_algorithm\bin\Debug\sort_algorithm.pdb
+F:\sort_algorithm\sort_algorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.Properties.Resources.resources
+F:\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.sortform.resources
+F:\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.thongtin.resources
+F:\sort_algorithm\sort_algorithm\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\sort_algorithm\sort_algorithm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Se7en\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.exe
+C:\Users\Se7en\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.pdb
+C:\Users\Se7en\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Se7en\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.Properties.Resources.resources
+C:\Users\Se7en\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.sortform.resources
+C:\Users\Se7en\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.thongtin.resources
+C:\Users\Se7en\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Se7en\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Se7en\Desktop\sort_algorithm\sort_algorithm\bin\Debug\sort_algorithm.exe
+C:\Users\Se7en\Desktop\sort_algorithm\sort_algorithm\bin\Debug\sort_algorithm.pdb
+C:\Users\Se7en\Downloads\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.exe
+C:\Users\Se7en\Downloads\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.pdb
+C:\Users\Se7en\Downloads\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Se7en\Downloads\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.Properties.Resources.resources
+C:\Users\Se7en\Downloads\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.sortform.resources
+C:\Users\Se7en\Downloads\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.thongtin.resources
+C:\Users\Se7en\Downloads\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Se7en\Downloads\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Se7en\Downloads\Documents\sort_algorithm\sort_algorithm\bin\Debug\sort_algorithm.exe
+C:\Users\Se7en\Downloads\Documents\sort_algorithm\sort_algorithm\bin\Debug\sort_algorithm.pdb
+C:\Users\HoaHandsome\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.exe
+C:\Users\HoaHandsome\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.pdb
+C:\Users\HoaHandsome\Desktop\sort_algorithm\sort_algorithm\bin\Debug\sort_algorithm.exe
+C:\Users\HoaHandsome\Desktop\sort_algorithm\sort_algorithm\bin\Debug\sort_algorithm.pdb
+C:\Users\HoaHandsome\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HoaHandsome\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.Properties.Resources.resources
+C:\Users\HoaHandsome\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.sortform.resources
+C:\Users\HoaHandsome\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.thongtin.resources
+C:\Users\HoaHandsome\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HoaHandsome\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HoaHandsome\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.sortall.resources
+C:\Users\Se7en\Desktop\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.sortall.resources
+C:\Users\HoaHandsome\Desktop\codeEm\sort_algorithm\obj\x86\Debug\sort_algorithm.exe
+C:\Users\HoaHandsome\Desktop\codeEm\sort_algorithm\obj\x86\Debug\sort_algorithm.pdb
+C:\Users\HoaHandsome\Desktop\codeEm\sort_algorithm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HoaHandsome\Desktop\codeEm\sort_algorithm\obj\x86\Debug\sort_algorithm.Properties.Resources.resources
+C:\Users\HoaHandsome\Desktop\codeEm\sort_algorithm\obj\x86\Debug\sort_algorithm.sortform.resources
+C:\Users\HoaHandsome\Desktop\codeEm\sort_algorithm\obj\x86\Debug\sort_algorithm.thongtin.resources
+C:\Users\HoaHandsome\Desktop\codeEm\sort_algorithm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HoaHandsome\Desktop\codeEm\sort_algorithm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HoaHandsome\Desktop\codeEm\sort_algorithm\bin\Debug\sort_algorithm.exe
+C:\Users\HoaHandsome\Desktop\codeEm\sort_algorithm\bin\Debug\sort_algorithm.pdb
+C:\Users\HoaHandsome\Desktop\codeEm\sort_algorithm\obj\x86\Debug\sort_algorithm.sortall.resources
+D:\VS 2K10\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.sortall.resources
+E:\VS\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.exe
+E:\VS\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.pdb
+E:\VS\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.csprojResolveAssemblyReference.cache
+E:\VS\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.Properties.Resources.resources
+E:\VS\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.sortall.resources
+E:\VS\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.sortform.resources
+E:\VS\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.thongtin.resources
+E:\VS\Documents\sort_algorithm\sort_algorithm\obj\x86\Debug\sort_algorithm.csproj.GenerateResource.Cache
